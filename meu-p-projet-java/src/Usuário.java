@@ -1,6 +1,6 @@
 public class Usuário {
     
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         SmartTv smartTv = new SmartTv();
 
         System.out.println("Tv ligada? " + smartTv.ligada);
